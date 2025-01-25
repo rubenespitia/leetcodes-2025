@@ -44,4 +44,6 @@ Se usa un arreglo adicional arrayResult para almacenar los indicies que cumplen 
 En el peor caso, si todos los elementos cumplen la condicion el tamanio de ArrayResult puede ser igual al
 tamanio de height, lo que significa que la complejidad espacial es O(n)
 
+#https://leetcode.com/problems/find-indices-of-stable-mountains/submissions/1519572784/
+
 """
